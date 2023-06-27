@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>instrumentation on Bdmeter</title>
+    <link>https://bdmeter.info/tags/instrumentation/</link>
+    <description>Recent content in instrumentation on Bdmeter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2018-{year} [Bdmeter](https://bdmeter.info) and [BDM Dev](https://dev.bdmeter.info). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bdmeter.info/tags/instrumentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AC Electricity: The basic passive components in ac circuits</title>
+      <link>https://bdmeter.info/blog/2023/06/ac-electricity-the-basic-passive-components-in-ac-circuits/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/blog/2023/06/ac-electricity-the-basic-passive-components-in-ac-circuits/</guid>
+      <description>Introduction Three basic components, resistors, capacitors, and inductors, are very important elements in electrical circuits as individual devices, or together. Resistors are used as loads, delays, and current limiting devices. Capacitors are used as dc blocking devices, in level shifting, integrating, differentiating, frequency determination, selection, and delay circuits. Inductors are used for frequency selection and ac blocking, in analog meter movements and relays, and are the basis for transformers and motors.</description>
+    </item>
+    
+    <item>
+      <title>Industrial instrumentation and process control</title>
+      <link>https://bdmeter.info/archives/2021/09/2021-09-18-industrial-instrumentation-and-process-control/</link>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bdmeter.info/archives/2021/09/2021-09-18-industrial-instrumentation-and-process-control/</guid>
+      <description>Fundamentals of Industrial Instrumentation and Process Control By William C. Dunn
+Copyright © 2005 by The McGraw-Hill Companies, Inc. All rights reserved. Manufactured in the United States of America. Except as permitted under the United States Copyright Act of 1976, no part of this publication may be reproduced or distributed in any form or by any means or stored in a database or retrieval system, without the prior written permission of the publisher.</description>
+    </item>
+    
+  </channel>
+</rss>
